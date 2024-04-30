@@ -46,7 +46,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/dipankarpaul2k/social-links-frontend-mentor.git)
+- [Solution URL](https://www.frontendmentor.io/solutions/social-links-reactjs-tailwind-css-vite-5QAVg-Ww42)
 - [Live Site URL](https://social-links-frontend-mentor.vercel.app/)
 
 ## Built with
