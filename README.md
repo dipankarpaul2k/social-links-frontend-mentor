@@ -46,8 +46,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL]()
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/dipankarpaul2k/social-links-frontend-mentor.git)
+- [Live Site URL](https://social-links-frontend-mentor.vercel.app/)
 
 ## Built with
 
