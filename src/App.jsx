@@ -7,11 +7,12 @@ import ProfileDetails from "./components/ProfileDetails";
 import LinkList from "./components/LinkList";
 
 function App() {
+
   const profile = {
     name: "Dipankar Paul",
     location: "West Bengal, India",
     text: '"Front-end developer and avid reader."',
-    image: Avatar,
+    image: "https://www.github.com/dipankarpaul2k.png",
     links: [
       {
         to: "https://www.frontendmentor.io/profile/dipankarpaul2k",
@@ -35,6 +36,7 @@ function App() {
       },
     ],
   };
+
   return (
     <>
       {/* body */}
